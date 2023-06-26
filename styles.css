@@ -1,1 +1,52 @@
-/* Write your CSS here! */
+body{
+    margin-top:25px;
+    margin-bottom:50px;
+    margin-right:50px;
+    display:block;
+    font-size: x-large;   
+
+}
+#mainHeading{
+    font-size: 3.5vw;
+    color:red;
+}
+h2{
+    font-size: 3vw;
+    color:blue
+
+}
+h3{
+    font-size: 2vw;
+    color:blue
+}
+.frontEntrance{
+    color:darkblue;
+    padding: 5px;   
+}
+.funParagraph{
+ color:green;
+ padding: 5px;
+}
+.living{
+ color:maroon;
+ padding: 5px;
+}
+.lounge{
+    color:coral;
+    padding: 5px;
+   }
+.lawn{
+    color:blueviolet;
+    padding: 5px;
+}
+#auth{
+    color:blue;
+    font-size: 1vw;
+    font-weight: bold;
+    text-align: center;
+}
+
+#figcaption{
+    color:brown;
+    font-weight: bold;
+}
